@@ -1,16 +1,4 @@
 
-library(arules)
-
-library(lme4)
-
-library(mtk)
-# R Data Type
-##### R objects
-# If you overwrite something, there is no warning or error!
-# Be careful of what you have named your objects, 
-# as it might be overwritten inadvertently
-
-#-------------------- Numeric--------------------
 a<-7^3
 
 class(a)
